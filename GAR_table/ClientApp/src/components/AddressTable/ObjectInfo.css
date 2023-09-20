@@ -1,0 +1,11 @@
+.modal-container {
+    display: flex;
+
+}
+.info-table {
+    width: 500px;
+}
+.info-map {
+    height: 500px;
+    width: 500px;
+}
